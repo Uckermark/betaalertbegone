@@ -1,0 +1,9 @@
+Package: com.uckermark.betaalert
+Name: BetaAlertBeGone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the annoying beta expired alert
+Maintainer: Uckermark
+Author: Uckermark
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
